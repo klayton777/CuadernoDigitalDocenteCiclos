@@ -522,7 +522,7 @@ with st.sidebar:
     
     # 5.2 Gestión de Archivos (al final)
     with st.expander("💾 Gestión de sesiones"):
-        n_file = st.text_input("Sesión actual:", value="cuaderno_2025")
+        n_file = st.text_input("Sesión actual:", value="0237-ictve")
         if st.button("💾 Guardar"):
             guardar_datos(n_file)
             st.success("¡Guardado correctamente!")
