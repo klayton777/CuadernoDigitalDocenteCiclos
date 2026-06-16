@@ -62,8 +62,7 @@ def run_scraper():
             for ciclo in ciclos_data['data']:
                 codciclo = ciclo['codciclo']
                 ciclo_name = ciclo['ciclo']
-                
-                db_level = "Grado Básico" if level == "CFGB" else "Grado Medio" if level == "CFGM" else "Grado Superior" if level == "CFGS" else "Curso de Especialización"
+                db_level = "BASICA" if level == "CFGB" else "MEDIO" if level == "CFGM" else "SUPERIOR" if level == "CFGS" else "ESPECIALIZACION"
                 
                 c.execute("INSERT OR IGNORE INTO degrees (family_id, level, name, code) VALUES (?, ?, ?, ?)", 
                          (family_id, db_level, ciclo_name, codciclo))
