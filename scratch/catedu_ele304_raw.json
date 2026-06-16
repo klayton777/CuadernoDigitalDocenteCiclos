@@ -1,0 +1,11 @@
+Fetching 0525...
+Traceback (most recent call last):
+  File "c:\GD-rsp\APP\scratch\fetch_catedu.py", line 151, in <module>
+    main()
+    ~~~~^^
+  File "c:\GD-rsp\APP\scratch\fetch_catedu.py", line 139, in main
+    data = parse_module_html(html)
+  File "c:\GD-rsp\APP\scratch\fetch_catedu.py", line 85, in parse_module_html
+    ra_num = ra_blocks[i + 1].strip()
+             ~~~~~~~~~^^^^^^^
+IndexError: list index out of range

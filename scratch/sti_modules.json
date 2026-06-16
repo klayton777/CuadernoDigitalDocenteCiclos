@@ -1,0 +1,3352 @@
+[
+  {
+    "codigo": "0525",
+    "nombre": "Configuración de infraestructuras de sistemas de telecomunicaciones",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Caracteriza las instalaciones de las infraestructuras comunes de telecomunicaciones (ICT) para la captación, adaptación y distribución de señales de radiodifusión sonora y televisión (emisiones terrenales y de satélite) analizando la normativa y describiendo la función y características de los espacios, equipos y elementos que la integran.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han identificado los elementos y espacios que integran la ICT."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han identificado el conjunto de elementos de captación de señales (antenas, mástiles, torretas y elementos de sujeción, entre otros)."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han identificado y reconocido sobre esquemas los elementos del equipo de cabecera."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han relacionado los elementos del equipo de cabecera con los conjuntos de captación de señales."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han identificado y reconocido sobre planos los tipos de redes (distribución, dispersión y de usuario)."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se ha relacionado cada elemento de la ICT, con su función y características."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Configura infraestructuras de telecomunicaciones para la captación, adaptación y distribución de señales de radiodifusión sonora y televisión, realizando cálculos y elaborando esquemas.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han identificado las características físicas de los edificios para la instalación de la ICT."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han ubicado en planos los elementos de captación respetando las distancias a posibles obstáculos y a líneas eléctricas."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han calculado los parámetros de los elementos y equipos."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han seleccionado los elementos de captación en función de las características técnicas indicadas en la normativa (calidad de la señal, velocidad del viento, radiación, inmunidad, entre otras)."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han seleccionado los elementos activos y pasivos del equipo de cabecera, para el procesamiento de las señales."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han dimensionado las redes que componen la infraestructura de comunicaciones."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han dibujado esquemas (generales y de detalle) con la simbología normalizada."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se ha aplicado la normativa de ICT en la configuración de la instalación."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Caracteriza la infraestructura común de telecomunicaciones para el acceso al servicio de telefonía básico disponible al público y redes digitales de servicios integrados analizando la normativa y describiendo la función y características de los elementos que la integran.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado los tramos que constituyen la red de interior (red de alimentación, distribución, dispersión y red interior de usuario)."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha identificado las características de la instalación de acuerdo al método de enlace entre las centrales y el inmueble (mediante cable o medios radioeléctricos)."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se ha reconocido en planos los registros implicados dependiendo del método de enlace.csv: BOA20130625009Se han determinado los elementos de conexión (puntos de interconexión, punto de distribución, punto de acceso al usuario y bases de acceso terminal."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han identificado los elementos y características de la red digital de servicios integrados."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han determinado los elementos que constituyen los sistemas de interfonía y videoportería."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han localizado sobre planos o esquemas los elementos de la red."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Configura infraestructuras de telecomunicaciones para el acceso al servicio de telefonía disponible al público, realizando cálculos y elaborando esquemas.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han identificado los usos del inmueble (viviendas, locales comerciales, oficinas en edificios de viviendas, entre otros)."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han evaluado las necesidades telefónicas de los usuarios del inmueble."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han determinado el número de líneas atendiendo al uso, número de puestos de trabajo, superficie y tipos de acceso."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se ha tenido en cuenta en la red común el cableado para el servicio a través de redes digitales."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha dimensionado la red de distribución teniendo en cuenta la necesidad futura estimada y del número de verticales."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han dimensionado las redes de dispersión e interior de usuario, (número de estancias, superficies, entre otros)."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha determinado la ubicación de los terminadores de red."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se han seleccionado los elementos de las instalaciones."
+          },
+          {
+            "id": "CE4.9",
+            "descripcion": "Se han elaborado esquemas de la instalación utilizando programas informáticos."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Caracteriza la infraestructura común de telecomunicaciones para el acceso al servicio de telecomunicaciones de banda ancha analizando la normativa y describiendo la función y características de los elementos que la integran.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han identificado los tipos de red."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se ha reconocido el tipo de enlace (mediante cable o radioeléctrico)."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han identificado en planos o esquemas los registros y recintos de la red de distribución."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han determinado los elementos de conexión en los puntos de distribución final."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han determinado los elementos de conexión en los puntos de terminación de red."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han identificado las especificaciones técnicas mínimas de los edificios en materia de telecomunicaciones."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Configura infraestructuras de redes de voz y datos con cableado estructurado analizando las características de las redes y elaborando esquemas.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han evaluado las necesidades de los servicios a soportar."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se ha previsto futuras ampliaciones en los servicios."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se ha tenido en cuenta la presencia de otras instalaciones posibles fuentes de interferencias."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se han seleccionado equipos y elementos (cableados, canalizaciones, distribuidores, entre otros) de cada subsistema."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se han seleccionado elementos y equipos de los recintos de telecomunicaciones."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han elaborado esquemas de los racks."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se han definido las condiciones de seguridad de los recintos de telecomunicaciones y cuartos de equipos."
+          },
+          {
+            "id": "CE6.8",
+            "descripcion": "Se han elaborado esquemas de la instalación utilizando programas informáticos.csv: BOA20130625009Determina las características de las instalaciones eléctricas para sistemas de telecomunicaciones analizando los requerimientos del sistema y dimensionando los elementos que las integran."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0551",
+    "nombre": "Elementos de sistemas de telecomunicaciones",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Caracteriza los sistemas de telecomunicaciones identificando los subsistemas que los integran y analizando su función en el conjunto.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha identificado la función de los dispositivos electrónicos empleados en telecomunicaciones (amplificadores, mezcladores, osciladores, moduladores, filtros, entre otros)."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han reconocido los diferentes tipos de modulación, sus características y aplicaciones."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se ha elaborado un diagrama de los bloques funcionales del sistema."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han identificado los tipos de canales de comunicaciones y sus características."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han definido las características de los transmisores de radiofrecuencia."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han definido las características de los receptores de radiofrecuencia."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se han relacionado las señales de entrada y salida con su tratamiento en cada bloque.csv: BOA20130625009Se han visualizado o medido señales de entrada y salida en los subsistemas."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Determina las características de las antenas de transmisión/recepción para sistemas de radiofrecuencia analizando sus parámetros típicos e identificando sus aplicaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han identificado los modos de propagación de señales electromagnéticas."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han reconocido bandas y servicios de comunicaciones en el espectro electromagnético."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han definido las características de las antenas."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han relacionado tipos de antenas con su aplicación."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han relacionado los elementos de las antenas con su función."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han calculado parámetros de las antenas."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han relacionado diagramas de radiación con su aplicación."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Evalúa las prestaciones de los medios guiados de transmisión realizando montajes, medidas y verificando sus características.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado los medios de transmisión guiados (cables de pares, fibra, guías de onda, entre otros)."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han reconocido sus características y campos de aplicación."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han montado los conectores y accesorios utilizados en medios de transmisión de cobre."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han realizado empalmes en fibra óptica."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han unido cables de fibra mediante conectores."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han medido parámetros de los medios de transmisión guiados."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han relacionado los parámetros medidos con su valor característico en distintas aplicaciones."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Determina la calidad de las señales en líneas de transmisión de telecomunicaciones aplicando técnicas de medida o visualización e interpretando los valores obtenidos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han identificado los equipos de medida de señales eléctricas y sus aplicaciones."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han identificado los equipos de medida de señales de radiofrecuencia y sus aplicaciones."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han identificado los equipos de medida de fibra óptica y sus aplicaciones."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han reconocido las medidas a realizar para comprobar la calidad de las señales y líneas de transmisión."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han medido o visualizado señales."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se ha evaluado la calidad en señales y líneas de transmisión."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han relacionado los valores medidos de las señales con valores de referencia."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Evalúa la calidad de las señales de sonido y video aplicando técnicas de visualización o medida e interpretando sus parámetros.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han relacionado las magnitudes fundamentales utilizadas en audio y video con sus unidades de medida."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han identificado y relacionado las funciones lineales, logarítmicas, y sus unidades."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han caracterizado los fenómenos acústicos y electro acústicos."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han visualizado señales de audio y vídeo e identificado sus características."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han valorado los niveles normalizados de las señales y sus unidades de medida."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han determinado las características de las señales de audio y vídeo digitales."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se han reconocido las perturbaciones más usuales que afectan a los sistemas de sonido y vídeo."
+          },
+          {
+            "id": "CE5.8",
+            "descripcion": "Se han identificado los instrumentos, equipos y técnicas de medida utilizados para evaluar señales de audio y vídeo.csv: BOA20130625009Se han medido y visualizado señales digitales."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0552",
+    "nombre": "Sistemas informáticos y redes locales",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Selecciona equipos informáticos evaluando los requerimientos del sistema de telecomunicaciones y definiendo la composición y características de sus elementos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han determinado las necesidades informáticas de los sistemas de telecomunicación."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han identificado los equipos en función de las aplicaciones del sistema de telecomunicaciones."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han caracterizado los componentes del equipo informático."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han caracterizado diferentes tipos de periféricos.csv: BOA20130625009Se han determinado las necesidades de software de los sistemas de telecomunicaciones."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se ha determinado el equipamiento."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Configura equipos informáticos examinando las características requeridas por el sistema de telecomunicaciones e instalando el hardware y el software.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se ha verificado que el hardware y software responden a las necesidades del sistema."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se ha interpretado la documentación técnica de los elementos del equipo."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han montado los elementos físicos del equipo informático."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han instalado los periféricos específicos."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han cargado los sistemas operativos."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se ha configurado el software del equipo."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se ha documentado el proceso de montaje."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Configura servicios y funciones específicas en el sistema informático planificando su implantación y teniendo en cuenta las especificaciones del sistema de telecomunicaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han interpretado los requerimientos software del sistema."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha planificado la asignación de servicios y funciones."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han configurado cuentas de usuarios, perfiles y políticas de contraseñas."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han configurado aplicaciones y servicios requeridos."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han utilizado herramientas de virtualización y simulación del sistema informático."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se ha verificado el funcionamiento del sistema."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Integra redes de área local (LAN) en sistemas de telecomunicaciones interpretando las especificaciones del sistema y configurando las partes física y lógica.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han caracterizado los componentes de las redes de datos."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han identificado las topologías y estructuras de redes."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha distinguido el funcionamiento y las características de los elementos de trabajo en red (networking)."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han reconocido los protocolos de comunicación."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha planificado una red LAN y su direccionamiento."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se ha montado la electrónica de red y elementos asociados."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han conexionado los equipos y elementos de la red."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha configurado una red LAN."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Integra redes locales inalámbricas (WLAN) en sistemas de telecomunicaciones interpretando las especificaciones del sistema y configurando las partes física y lógica.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han definido las redes inalámbricas de acceso local (WLAN)."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han determinado los componentes y características de las redes WLAN."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se ha diseñado una red WLAN."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han ubicado los dispositivos y equipos."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han configurado los servicios y dispositivos de la red WLAN."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han configurado los elementos de seguridad de la red."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha verificado el funcionamiento de la WLAN."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Realiza pruebas de puesta en servicio de sistemas informáticos o redes de datos aplicando técnicas de análisis de rendimiento y verificando su integración en el sistema de telecomunicaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han identificado los puntos de control."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se ha aplicado el plan de puesta en servicio."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se ha testeado el funcionamiento del hardware del sistema.csv: BOA20130625009Se ha comprobado el funcionamiento del software del sistema."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se ha verificado el funcionamiento de las redes."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se ha realizado la integración de los equipos informáticos en el sistema de telecomunicaciones."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han realizado pruebas de rendimiento del sistema informático."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se ha documentado la puesta en servicio."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Mantiene sistemas informáticos y redes aplicando técnicas diagnóstico o monitorizado y efectuando la corrección de las disfunciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se han relacionado las averías típicas de los sistemas informáticos y redes locales, con los elementos del sistema."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se ha aplicado el plan de mantenimiento."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han utilizado herramientas hardware / software de diagnóstico y monitorización."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se han ejecutado las tareas de mantenimiento preventivo y predictivo."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se ha localizado el equipo o elemento responsable de la disfunción."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se ha reparado la averíaSe ha restituido el funcionamiento."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se han documentado las intervenciones de mantenimiento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0553",
+    "nombre": "Técnicas y procesos en infraestructuras de telecomunicaciones",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": ".Replantea infraestructuras de sistemas de telecomunicaciones interpretando planos de edificación, esquemas de la instalación y relacionando redes de cableado, equipos y elementos con su lugar de ubicación.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha verificado la coincidencia entre los datos de los planos y la ubicación de las instalaciones."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha verificado que los espacios (recintos, registro, arquetas, lugar de ubicación de los elementos de captación de señales, entre otros) son los indicados en la  documentación."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han tenido en cuenta las características específicas de los tipos de instalación."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se ha comprobado que el trazado de la instalación no interfiere con otras instalaciones existentes o previstas."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han relacionado los espacios y elementos de la instalación con su lugar de ubicación."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han identificado posibles contingencias y planteado soluciones."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha marcado el trazado de la instalación en planos y/u obra."
+          },
+          {
+            "id": "CE1.8",
+            "descripcion": "Se han tenido en cuenta los reglamentos y normas de aplicación en el replanteo."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Monta conjuntos captadores de señales de radiodifusión sonora y de televisión para emisiones terrenales y de satélite interpretando planos y esquemas de montaje y aplicando técnicas específicas.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han seleccionado los equipos y herramientas de montaje de antenas y mástiles, entre otros."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han montado elementos soporte de las antenas y sus elementos de fijación."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han montado antenas para radiodifusión sonora y televisión."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se ha verificado la dirección de máxima señal."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han orientado las antenas."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han montado los elementos activos o pasivos para entregar la señal al equipo de cabecera."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han conectado los mástiles de antena a la toma de tierra.csv: BOA20130625009Monta el equipamiento de cabecera describiendo la función de cada elemento y aplicando técnicas específicas."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Instala los elementos de la red de distribución para señales de radio y televisión interpretando planos o esquemas de su estructura y aplicando técnicas específicas de montaje.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se ha tendido el cableado de la red de distribución."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha tendido el cableado de la red de dispersión."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se ha tendido el cableado de la red interior de usuario."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han montado derivadores y distribuidores."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han montado las tomas de usuario (bases de acceso terminal)."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han montado los puntos de acceso de usuario."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han conexionado los cables de la red."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se han verificado los valores de las características de la red."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Instala la infraestructura común de telecomunicaciones para el acceso al servicio de telefonía disponible al público (telefonía básica y través de una red digital de servicios integrados), interpretando planos o esquemas y aplicando técnicas especificas de montaje.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha identificado el método de enlace utilizado por los operadores."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han identificado los tipos de acceso (acceso básico RDSI o acceso primario RDSI)."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han identificado los dos casos del acceso primario, teniendo en cuenta la ubicación del TR1 p."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han individualizado hasta la TR1 p, los cables de emisión y recepción."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han montado los registros de terminación de red par telefonía básica (TB) y la red digital de servicios integrados (RDSI)."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han instalado diferentes configuraciones de cableado para RDSI (bus pasivo corto, bus pasivo ampliado y punto a punto)."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han montado los elementos de los puntos de distribución."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha montado la intercomunicación y control de acceso."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Instala infraestructuras de redes de banda ancha interpretando planos y esquemas de su estructura y aplicando técnicas de montaje.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha replanteado la instalación de acuerdo a los planos."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se ha instalado el cableado troncal (subsistema de campus)."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se ha instalado el cableado vertical (subsistema de edificios)."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se ha instalado el cableado horizontal."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han montado distribuidores de campus, de edificio de planta, entre otros."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han montado los equipos de los recintos de telecomunicaciones y cuartos de equipos."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se han realizado pruebas y medidas de parámetros relacionados con certificaciones.csv: BOA20130625009Se han elaborado esquemas de las posibles modificaciones."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Verifica el funcionamiento de las infraestructuras de sistemas de telecomunicaciones, efectuando medidas y contrastándolas con los parámetros normativos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han seleccionado las herramientas e instrumental de medida."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se han efectuado medidas, ajustes y ensayos de funcionamiento."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se han interpretado los resultados obtenidos en las medidas."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se ha comprobado que los parámetros de la instalación cumplen la normativa o están de acuerdo a estándares."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se han ajustado equipos de acuerdo a parámetros normativos."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han contrastado los resultados obtenidos."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Mantiene instalaciones de infraestructuras de sistemas de telecomunicaciones efectuando mediciones y corrigiendo averías o disfunciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se ha realizado el plan de intervención en el sistema para la detección de fallos, averías, de acuerdo a la instalación."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se han realizado pruebas y medidas según la tipología del sistema."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han interpretado las medidas realizadas, señalando lasSe han aplicado técnicas de diagnóstico y localización de averías según tipología y características de la instalación."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se han propuesto hipótesis de las causas y repercusión de averías."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se han sustituido equipos o partes de la instalación."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se ha verificado la restitución del funcionamiento en caso de avería."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se han realizado las operaciones de mantenimiento preventivo."
+          }
+        ]
+      },
+      {
+        "id": "RA8",
+        "descripcion": "Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE8.1",
+            "descripcion": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas."
+          },
+          {
+            "id": "CE8.2",
+            "descripcion": "Se han operado las máquinas respetando las normas de seguridad."
+          },
+          {
+            "id": "CE8.3",
+            "descripcion": "Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, entre otros."
+          },
+          {
+            "id": "CE8.4",
+            "descripcion": "Se han descrito los elementos de seguridad (protecciones, alarmas, paros de emergencia, entre otros) de las máquinas y los equipos de protección individual (calzado, protección ocular, indumentaria, entre otros) que se deben emplear en las distintas operaciones de montaje y mantenimiento."
+          },
+          {
+            "id": "CE8.5",
+            "descripcion": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridas."
+          },
+          {
+            "id": "CE8.6",
+            "descripcion": "Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento de los sistemas de telefonía."
+          },
+          {
+            "id": "CE8.7",
+            "descripcion": "Se han identificado las posibles fuentes de contaminación del entorno ambiental."
+          },
+          {
+            "id": "CE8.8",
+            "descripcion": "Se han clasificado los residuos generados para su retirada selectiva."
+          },
+          {
+            "id": "CE8.9",
+            "descripcion": "Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0554",
+    "nombre": "Sistemas de producción audiovisual",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Caracteriza equipos de sonido identificando sus aplicaciones y analizando su funcionamiento.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han clasificado los elementos de captación y emisión de sonido según su funcionalidad."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han distinguido los equipos de amplificación y procesado de audio."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han identificado los equipos de grabación y reproducción de sonido."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han comprobado las características técnicas de los equipos de sonido."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han reconocido los procesos de transformación de las señales en cada equipo."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han identificado los conectores y las líneas de transmisión de los sistemas de  sonido según sus características."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se han examinado los diferentes tipos de interfaces de los equipos de audio y las posibilidades de interconexión entre ellos (audio analógico balanceado y no balanceado)."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Configura instalaciones de sonido, definiendo su estructura y seleccionando los elementos que las componen.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se ha identificado la estructura, características técnicas y elementos de los sistemas de sonido ambiental, megafonía y sonorización de espectáculos."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se ha identificado la estructura, características técnicas y elementos de los sistemas de sonido de estudios de grabación, edición y difusión de radio y televisión.csv: BOA20130625009Se han establecido las relaciones de funcionamiento entre los diferentes sistemas y elementos de las instalaciones."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han definido los parámetros que aseguran la calidad de la instalación."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han calculado los parámetros de los elementos y equipos de la instalación (secciones de conductores, tiempos de reverberación, impedancia en altavoces y potencia en amplificadores, entre otros)."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se ha seleccionado el equipamiento técnico (sistemas de previo, equipos de proceso de señal, micrófonos y difusores electroacústicos, entre otros)."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han determinado las líneas de transmisión, los elementos y accesorios de conexión."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han elaborado esquemas de las instalaciones."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Caracteriza equipos de imagen identificando sus aplicaciones y analizando su funcionamiento.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado las diferentes tecnologías de vídeo analógico y digital."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha relacionado los interfaces y sus posibilidades de interconexión (SDI, HD-SDI, Vídeo compuesto, Vídeo en componentes, HDMI y Firewire, entre otros)."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han identificado los equipos de captación y visualización de vídeo, sus características y aplicaciones."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han clasificado los equipos de generación, conmutación, distribución y procesado  de vídeo, sus características y aplicaciones."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han identificado los equipos de grabación, reproducción, edición y visualización de vídeo, sus características y aplicaciones."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han distinguido los procesos de transformación de las señales en cada equipo."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han comprobado las características técnicas de los equipos de imagen."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se han clasificado los conectores y las líneas de transmisión de los sistemas de imagen."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Configura instalaciones de imagen, definiendo su estructura y seleccionando los elementos que las componen.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha identificado la estructura y equipamiento de los sistemas de circuito cerrado de televisión."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se ha relacionado la estructura, características técnicas y elementos de los sistemas de video en estudios de televisión."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha identificado la estructura, características y particularidades del equipamiento técnico de las unidades móviles de televisión."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se ha determinado la estructura de las instalaciones auxiliares asociadas (iluminación e intercomunicación, entre otros)."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha seleccionado el equipamiento técnico (cámaras, monitores, distribuidores, matrices, mezcladores y grabadores, entre otros)."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han determinado las líneas de transmisión, los elementos y accesorios de conexión de los equipos."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha elaborado la documentación técnica."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Instala sistemas de imagen y sonido, interpretando planos y esquemas y aplicando técnicas específicas de montaje",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha interpretado la documentación técnica de la instalación."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han seleccionado las herramientas y técnicas de montaje adecuadas (soldadura y engastado, entre otras)."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se ha supervisado el programa de montaje."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han ubicado las estructuras, canalizaciones, armarios de equipos y consolas de la instalación."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha tendido, marcado y agrupado el cableado de los sistemas de la instalación.csv: BOA20130625009Se han ubicado y fijado los equipos del sistema (monitores, cámaras, altavoces, procesadores de señal, altavoces, grabadores y mezcladores, entre otros)."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han conexionado los equipos y elementos de la instalación."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se han documentado los replanteos y modificaciones realizadas respecto del proyecto original."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Verifica la puesta en servicio instalaciones de imagen y sonido, realizando medidas y configurando los equipos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han identificado los parámetros y medidas de control de calidad de  la instalación, en función de sus características.b) Se han ajustado los equipos para conseguir la funcionalidad requerida (zonas de sonorización, potencia de amplificadores, modos de trabajo de procesadores y enrutamientos, entre otros)c) Se han realizado las medidas (potencia, distorsión, RT60, jitter, amplitud y relación s/n, entre otros).d) Se han realizado ensayos de funcionamiento.e) Se han interpretado las medidas obtenidas.f) Se ha aplicado el protocolo de puesta en servicio de la instalación.g) Se ha elaborado el informe de puesta en servicio."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Mantiene sistemas de imagen y sonido efectuando mediciones y corrigiendo averías o disfunciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se han examinado las tipologías y características de las averías de los sistemas de imagen y sonido. (fallos de conexión, lazos de tierras, desadaptaciones de impedancia, desgastes mecánicos y averías electrónicas, entre otros)."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se han ejecutado las tareas de mantenimiento preventivo (medida de parámetros eléctricos, limpieza de mandos y controles y sustitución de piezas desgastadas, entre otros)."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han aplicado técnicas de medida, diagnóstico y localización de averías."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se han realizado pruebas y medidas según la tipología del sistema."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se ha diagnosticado la causa de la avería."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se ha sustituido el equipo o elemento, reparando la avería."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se ha restituido el funcionamiento según el protocolo de comprobación y puesta en servicio."
+          },
+          {
+            "id": "CE7.8",
+            "descripcion": "Se han actualizado los históricos de averías y el programa del mantenimiento preventivo."
+          }
+        ]
+      },
+      {
+        "id": "RA8",
+        "descripcion": "Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE8.1",
+            "descripcion": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas."
+          },
+          {
+            "id": "CE8.2",
+            "descripcion": "Se han operado las máquinas respetando las normas de seguridad."
+          },
+          {
+            "id": "CE8.3",
+            "descripcion": "Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, entre otros."
+          },
+          {
+            "id": "CE8.4",
+            "descripcion": "Se han descrito los elementos de seguridad (protecciones, alarmas y paros de emergencia, entre otros) de las máquinas y los equipos de protección individual (calzado, protección ocular e indumentaria, entre otros) que se deben emplear en las distintas operaciones de montaje y mantenimiento."
+          },
+          {
+            "id": "CE8.5",
+            "descripcion": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridas.csv: BOA20130625009Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento de las instalaciones de imagen y sonido."
+          },
+          {
+            "id": "CE8.6",
+            "descripcion": "Se han identificado las posibles fuentes de contaminación del entorno ambiental."
+          },
+          {
+            "id": "CE8.7",
+            "descripcion": "Se han clasificado los residuos generados para su retirada selectiva."
+          },
+          {
+            "id": "CE8.8",
+            "descripcion": "Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0555",
+    "nombre": "Redes Telemáticas",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Configura routers, analizando su función en las redes de comunicaciones y utilizando instrucciones y comandos específicos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha identificado la función de los routers en las redes de datos."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha caracterizado el hardware y software del router."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han determinado los medios de transmisión más adecuados para cada interfaz del router."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se ha elaborado el protocolo de arranque del router."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han utilizado diferentes modos de acceso y comandos básicos para configurar el router."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han definido los diferentes tipos de protocolos de enrutamiento."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha configurado el router según diferentes tipos de enrutamientos, direccionamiento y protocolos."
+          },
+          {
+            "id": "CE1.8",
+            "descripcion": "Se ha verificado la configuración del router."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Implementa redes de acceso local virtual (VLAN), justificando su utilización y configurando los switches.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han caracterizado diversos tipos de VLAN."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se ha definido la función de un switch en una red VLAN."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han distinguido los elementos software que componen el switch."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se ha realizado una configuración básica de un switch."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se ha interpretado la información visual del switch."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se ha configurado la VLAN."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han conectado varios switches."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se ha verificado el funcionamiento de la red."
+          },
+          {
+            "id": "CE2.9",
+            "descripcion": "Se ha realizado la interconexión de varias VLAN´s a través de un router."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Implementa el acceso a redes de área amplia (WAN) configurando los dispositivos de conexión.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han definido las características de las redes WAN."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha identificado la tecnología de conexión a una red WAN."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han identificado diferentes tipos de conexiones con la red."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han configurado accesos a la red."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se ha verificado el acceso a la red."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han distinguido los protocolos NAT y PAT con sus características."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han documentado las intervenciones."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Verifica la puesta en servicio de redes telemáticas realizando medidas y aplicando criterios de certificación.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha verificado el funcionamiento de las instalaciones eléctricas asociadas."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han interconectado las redes jerárquicas cableadas e inalámbricas."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han integrado los equipos y periféricos."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se ha verificado la conectividad con redes exteriores."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha configurado el protocolo SNMP."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han realizado operaciones de puesta en servicio."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha aplicado el protocolo de puesta en servicio.csv: BOA20130625009Aplica técnicas de seguridad de la red, identificando las amenazas más comunes y configurando los recursos del sistema para su protección."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Mantiene redes telemáticas, aplicando procedimientos de medida o monitorización y relacionando las disfunciones o averías con sus causas.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han relacionado las averías con las tipologías y características de las redes."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se ha aplicado el plan de mantenimiento preventivo."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han identificado síntomas de averías."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han monitorizado las redes telemáticas."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha localizado el subsistema, equipo o elemento responsable de la disfunción."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se ha restituido el funcionamiento siguiendo el protocolo de puesta en servicio."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se han actualizado los históricos de averías y el programa de mantenimiento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0556",
+    "nombre": "Sistemas de radiocomunicaciones",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Caracteriza sistemas de transmisión para radio y televisión identificando sus aplicaciones y analizando su funcionamiento.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han relacionado los distintos sistemas de emisión y transmisión para radio y televisión (RTV) con los servicios y aplicaciones prestadas."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha identificado la estructura de los sistemas de transmisión de señales de las instalaciones fijas y de las unidades móviles."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han relacionado las partes y elementos de la instalación con los símbolos que aparecen en los esquemas y planos."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han establecido las relaciones de funcionamiento entre los diferentes sistemas  y elementos de las instalaciones."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han caracterizado las técnicas de los bloques o subconjuntos que forman un sistema emisor de RTV."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han comprobado las características técnicas de los equipos de emisión y transmisión para radio y televisión."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se han definido los parámetros que aseguran la calidad del servicio."
+          },
+          {
+            "id": "CE1.8",
+            "descripcion": "Se ha identificado la normativa que afecta a la instalación (REBT, normativas de telecomunicaciones y ordenanzas municipales, entre otras)."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Configura instalaciones fijas y unidades móviles para la transmisión de señales de radio y televisión definiendo su estructura y seleccionando los elementos que las componen.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han realizado cálculos y emulaciones de la cobertura de un sistema de transmisión.csv: BOA20130625009Se han determinado los emplazamientos de los emisores, las zonas de cobertura y la estructura de la red de radiofrecuencia."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han calculado los parámetros de la instalación (altura efectiva del sistema radiante, potencia del transmisor, ganancia de las antenas, entre otros)."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se ha seleccionado el equipamiento técnico de los emisores, reemisores y radioenlaces (moduladores, demoduladores, procesadores y amplificadores, entre otros)."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se ha determinado la composición y equipamiento de antenas, sistemas radiantes y sus accesorios (filtros, acopladores, multiplexores y combinadores, entre otros)."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han dimensionado los mástiles, soportes y torretas."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han seleccionado los equipos de alimentación y protección de la instalación (sistemas de alimentación, tomas de tierra, grupos electrógenos, entre otros)."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han elaborado esquemas de la instalación."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Instala sistemas para la transmisión de señales de radio y televisión interpretando planos y esquemas y aplicando técnicas específicas de montaje.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se ha aplicado la secuencia de montaje de los elementos que componen el sistema."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han relacionado los símbolos de los planos y esquemas con los elementos a montar y sus lugares de ubicación."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han instalado las antenas y sistemas radiantes."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han instalado los conductores y las líneas de transmisión."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han montado los racks y los soportes de los equipos."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han instalado las protecciones del equipamiento."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han conectado los equipos de emisión y transmisión del sistema según la documentación técnica."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se han conexionado los equipos de transmisión con la red troncal de comunicaciones."
+          },
+          {
+            "id": "CE3.9",
+            "descripcion": "Se han documentado los replanteos y modificaciones realizadas respecto de la documentación original."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Verifica el funcionamiento de los sistemas de emisión y transmisión realizando medidas de los parámetros significativos y configurando los equipos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha aplicado el protocolo de puesta en servicio de la instalación."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han configurado los equipos de forma local y remota."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha configurado el hardware y software de los equipos de emisión y transmisión siguiendo la documentación técnica (modo de funcionamiento, potencia y frecuencia de trabajo, entre otros)."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han realizado las pruebas y medidas de funcionalidad de los equipos siguiendo procedimientos determinados por los fabricantes."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han medido los parámetros de calidad del sistema (potencias directa y  reflejada. ROE. Distorsiones. Intermodulaciones. Medidas de ecos.  Relaciones S/N, C/N y BER, entre otras)."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se ha verificado el funcionamiento de los equipos de conmutación automática y  los sistemas redundantes."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han realizado medidas en el sistema de alimentación (sistemas fotovoltaicos y SAI entre otros)."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se han contrastado los parámetros medidos con los característicos de la instalación."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Mantiene sistemas para la transmisión y emisión de señales de radio y televisión, efectuando medidas y corrigiendo averías o disfunciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha programado el mantenimiento del sistema.csv: BOA20130625009Se han examinado las tipologías y características de las averías de los sistemas  de emisión y transmisión (desadaptaciones de impedancia, derivas de frecuencia,distorsiones, averías en líneas de transmisión y etapas amplificadoras, entre  otras)."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han definido los puntos de revisión y los controles a realizar en el plan de mantenimiento preventivo."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han aplicado técnicas de medida, diagnóstico y localización de averías."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han identificado los síntomas de la avería."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha diagnosticado la causa de la avería."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se ha sustituido el equipo o elemento causante de la avería."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha restituido el funcionamiento siguiendo el protocolo de puesta en servicio."
+          },
+          {
+            "id": "CE5.8",
+            "descripcion": "Se han actualizado los históricos de averías y el programa del mantenimiento preventivo."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se han operado las máquinas respetando las normas de seguridad."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se han identificado las causas más frecuentes de accidentes en la manipulación  de materiales y herramientas, entre otros."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se han descrito los elementos de seguridad (protecciones, alarmas y paros de emergencia, entre otros) de las máquinas y los equipos de protección individual (calzado, protección ocular, indumentaria, entre otros) que se deben emplear en  las distintas operaciones de montaje y mantenimiento."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridas."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento de los sistemas de radiocomunicaciones."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se han identificado las posibles fuentes de contaminación del entorno ambiental."
+          },
+          {
+            "id": "CE6.8",
+            "descripcion": "Se han clasificado los residuos generados para su retirada selectiva."
+          },
+          {
+            "id": "CE6.9",
+            "descripcion": "Se ha valorado el orden y la limpieza de instalaciones y equipos como primer  factor de prevención de riesgos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0557",
+    "nombre": "Sistemas integrados y hogar digital",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Caracteriza las infraestructuras del hogar digital (IHD) examinando los ámbitos que lo componen y distinguiendo los servicios a prestar.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha determinado el nivel de aplicación digital (ICT, nivel básico o nivel superior) y servicios asociados."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han definido las estructuras de las redes interiores, (HAN, TGCS, entre otras), conexiones y canalizaciones de ampliación."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han determinado las características y funcionalidades de los servicios."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han determinado los buses de interconexión de los dispositivos y elementos."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han definido los medios de acceso remoto a los servicios."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han seleccionado los interfaces, servidores y pasarelas."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha aplicado la normativa vigente."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Integra sistemas multimedia y de comunicaciones en red, gestionando los servicios y controlando el funcionamiento de los dispositivos y equipos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "csv: BOA20130625009Se han verificado las características del streamer de transporte de audio y vídeo."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han identificado los interfaces de distribución de audio por IP, elementos de red, amplificadores, pantallas, entre otros."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han seleccionado los elementos hardware y software para una IPTV."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han configurado los módulos streamers IP."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se ha realizado el conexionado de los elementos de la instalación IPTV."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se ha instalado el software para la visualización y escucha de los streamers de vídeo y audio."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han configurado los dispositivos y sistemas multimedia."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se han configurado los dispositivos y sistemas de comunicaciones."
+          },
+          {
+            "id": "CE2.9",
+            "descripcion": "Se ha verificado la funcionalidad de los equipos y sistemas."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Instala sistemas de seguridad, verificando su integración y examinando su funcionalidad.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han interconectado los equipos y elementos."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han programado las centralitas."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han integrado los sistemas de seguridad en redes LAN y WAN."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se ha instalado el software de recepción y decodificación de señales de alarma."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han configurado los equipos para transmisiones de señales de alarma por diferentes medios, (vía satélite y TCP/IP, entre otros)."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han integrado señales de posicionamiento y seguimiento en centros de control."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se ha verificado la funcionalidad de los equipos y sistemas."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se ha elaborado la documentación técnica."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Integra sistemas de CCTV, control de accesos y video inteligente, verificando la instalación, interconexión los elementos y gestionando equipos y servidores de comunicaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han identificado las características funcionales de la red local, (velocidad, configuración, topología, entre otras)."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han interconectado los equipos y elementos de captación, identificación y control."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha implementado el software de gestión de CCTV, control de accesos y video inteligente."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han configurado los medios de almacenamiento digital, (DVR, servidores, NVR, discos de red, entre otros)."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han integrado los servidores y equipos de comunicación en LAN y WAN."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han configurado los dispositivos móviles de visionado y control remoto."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha verificado la funcionalidad de los equipos y sistemas."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha elaborado la documentación técnica."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Integra dispositivos de automatización controlando el funcionamiento de los sistemas y gestionando los equipos y servidores de la red de control.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha identificado la convergencia de servicios en la instalación."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han determinado los elementos y dispositivos."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se ha configurado la red de control y buses domóticos."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han conexionado los elementos de control y automatización."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha integrado la pasarela de control."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han configurado los servidores de monitorización y control remoto."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha verificado la funcionalidad de los equipos y sistemas."
+          },
+          {
+            "id": "CE5.8",
+            "descripcion": "Se ha elaborado la documentación técnica."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Mantiene sistemas integrados del hogar digital planificando las acciones y relacionándolas con las disfunciones o averías.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han descrito las tipologías y características de las averías en los sistemas integrados en edificios inteligentes."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se ha elaborado el plan de mantenimiento preventivo."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se han identificado síntomas de averías.csv: BOA20130625009Se han monitorizado las redes y sistemas."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se ha localizado el subsistema, equipo o elemento responsable de la disfunción."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se ha restituido el funcionamiento siguiendo el protocolo de puesta en servicioSe han actualizado los históricos de averías y el programa del mantenimiento."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación  de los materiales, herramientas, útiles, máquinas y medios de transporte."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se ha operado con herramientas respetando las normas de seguridad."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, entre otrasSe han descrito los elementos de seguridad (protecciones, alarmas, paros de emergencia, entre otros), los equipos de protección individual y colectiva (calzado, protección ocular, indumentaria, entre otros) que se deben emplear en las distintas operaciones de montaje y mantenimiento."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se ha identificado el uso correcto de los elementos de seguridad y de los equipos de protección individual y colectiva."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridos."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento  de sistemas inteligentes."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se han identificado las posibles fuentes de contaminación del entorno ambiental."
+          },
+          {
+            "id": "CE7.8",
+            "descripcion": "Se han clasificado los residuos generados para su retirada selectiva."
+          },
+          {
+            "id": "CE7.9",
+            "descripcion": "Se ha valorado el orden y la limpieza como primer factor de riesgo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0601",
+    "nombre": "Gestión de proyectos de instalaciones de telecomunicaciones",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Identifica la documentación técnico-administrativa de las instalaciones, analizando proyectos e interpretando la información de cada documento.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han reconocido los documentos que componen un proyecto."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha identificado la función de cada documento."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se ha relacionado el proyecto de la instalación con el proyecto general."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han determinado los informes necesarios para la elaboración de  cada documento."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han reconocido las gestiones de tramitación legal de un proyecto."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han identificado los datos requeridos por el modelo oficial de certificado de instalación."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha identificado la normativa de aplicación."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Elabora planos y esquemas de instalaciones de telecomunicaciones, dando respuesta a la configuración de las instalaciones y manejando programas informáticos de aplicación.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "csv: BOA20130625009Se han relacionado los elementos y espacios con la configuración de la instalación."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han identificado los planos y esquemas indicados por la normativa."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se ha seleccionado la escala y el formato apropiado, de acuerdo a la utilizada en los planos de edificación."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han tenido en cuenta las escalas mínimas para los planos de planta y para los planos generales de situación."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se ha dibujado los esquemas (general, de principio, detalles, entre otros) de la infraestructura."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han dibujado planos de la instalación."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se ha incluido en el cajetín la información indicada en la norma."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se han incorporado las leyendas cuando corresponda."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Elabora presupuestos de instalaciones de telecomunicaciones considerando listado de materiales, baremos y aplicando precios unitarios.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado las unidades de obra de las instalaciones o sistemas y los elementos que las componen."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han realizado las mediciones de obra."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han determinado los recursos para cada unidad de obra."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han obtenido los precios unitarios a partir de catálogos de fabricantes."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se ha detallado el coste de cada unidad de obra."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han realizado las valoraciones de cada capítulo del presupuesto."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han utilizado aplicaciones informáticas para elaboración de presupuestos."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se ha valorado el coste de mantenimiento predictivo y preventivo."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Organiza el aprovisionamiento para el montaje y mantenimiento de instalaciones y de telecomunicaciones, analizando los requerimientos de la instalación y la documentación técnica.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han definido las características de aceptación de equipos, medios y materiales."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han definido los puntos críticos de aprovisionamiento en el montaje y mantenimiento."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha definido el sistema de codificación para la identificación y trazabilidad de los materiales."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han relacionado las fases del plan de montaje con sus necesidades de aprovisionamiento."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han identificado las necesidades para cada tipo de mantenimiento."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han establecido las condiciones de suministro de cada material o equipo."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha elaborado el plan de aprovisionamiento."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Planifica el montaje de instalaciones de telecomunicaciones, analizando planes de montaje y definiendo las fases de ejecución",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha reconocido la documentación técnica, normas y reglamentos que afectan al montaje."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han identificado las fases del proceso de montaje."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han determinado las necesidades de cada fase de montaje."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han reconocido los materiales, herramientas y maquinaria de cada fase de montaje."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han determinado los recursos humanos de cada fase de montaje."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han evaluado los puntos críticos de montaje."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha representado el cronograma del montaje según sus fases."
+          },
+          {
+            "id": "CE5.8",
+            "descripcion": "Se han determinado los medios de protección necesarios."
+          },
+          {
+            "id": "CE5.9",
+            "descripcion": "Se han previsto contingencias y propuesto soluciones para su resolución."
+          },
+          {
+            "id": "CE5.10",
+            "descripcion": "Se ha elaborado el plan de montaje."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Elabora manuales y documentos anexos a los proyectos de instalaciones de telecomunicaciones, definiendo procedimientos de previsión, actuación y control.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han relacionado las medidas de prevención de riesgos en el montaje o mantenimiento de las instalaciones y sistemas.csv: BOA20130625009Se han identificado las pautas de actuación en situaciones de emergencia."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se han definido los indicadores de calidad de la instalación o sistema."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se ha definido el informe de resultados y acciones correctoras atendiendo a los registros."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se ha establecido el procedimiento de trazabilidad de materiales y residuos."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se ha determinado el almacenaje y tratamiento de los residuos generados en los procesos."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han elaborado manuales de servicio y mantenimiento."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se han elaborado manuales de puesta en servicio."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Planifica el mantenimiento de las instalaciones de telecomunicaciones, identificando necesidades y elaborando y programas de mantenimiento y gestión de residuos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se  han  identificado  las  partes   y  elementosde la instalación susceptibles de mantenimiento."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se ha planificado el aprovisionamiento de cada una de las partes."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han procedimentado las operaciones básicas de mantenimiento preventivo y correctivo."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se ha programado el mantenimiento de la instalación teniendo en cuenta sus características."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se han identificado las instrucciones de los fabricantes de los equipos y elementos que intervienen en la instalación."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se han propuesto ajustes de los equipos y elementos para su buen funcionamiento."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se han determinado la compatibilidad de equipos o elementos."
+          },
+          {
+            "id": "CE7.8",
+            "descripcion": "Se ha elaborado programas de mantenimiento."
+          },
+          {
+            "id": "CE7.9",
+            "descripcion": "Se han reconocido los tipos de residuos de una instalación."
+          },
+          {
+            "id": "CE7.10",
+            "descripcion": "Se ha planificado el programa de gestión de residuos."
+          }
+        ]
+      },
+      {
+        "id": "RA8",
+        "descripcion": "Aplica técnicas de gestión del montaje y mantenimiento de instalaciones de telecomunicaciones, analizando planes de montaje y estudios de seguridad.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE8.1",
+            "descripcion": "Se han identificado todos los apartados del plan de montaje."
+          },
+          {
+            "id": "CE8.2",
+            "descripcion": "Se ha planificado el control de avance de obra."
+          },
+          {
+            "id": "CE8.3",
+            "descripcion": "Se han adecuado el plan de montaje a las características de la instalación."
+          },
+          {
+            "id": "CE8.4",
+            "descripcion": "Se han identificado técnicas de gestión de personal en la ejecución de las instalaciones y su mantenimiento."
+          },
+          {
+            "id": "CE8.5",
+            "descripcion": "Se han aplicado técnicas de gestión de materiales y elementos para el montaje y mantenimiento de instalacionesSe han reconocido procedimientos para la gestión del montaje y mantenimiento."
+          },
+          {
+            "id": "CE8.6",
+            "descripcion": "Se han determinado indicadores de control del montaje y mantenimiento."
+          },
+          {
+            "id": "CE8.7",
+            "descripcion": "Se ha aplicado la normativa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0713",
+    "nombre": "Sistemas de telefonía fija y móvil",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": "Configura sistemas privados de telefonía convencional determinando los servicios y seleccionando equipos y elementos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han identificado las características técnicas y funcionales de los sistemas y redes de telefonía analógica y digital."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han reconocido normativas, requerimientos y especificaciones técnicas de las instalaciones."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han distinguido los servicios de los operadores de telecomunicaciones."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han identificado los interfaces y terminadores de red."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han dimensionado las instalaciones fijas, centralitas, servicios adicionales, terminales, entre otros, y la red de usuario.csv: BOA20130625009Se ha dimensionado la estructura del servicio inalámbrico (DECT, enlaces GSM, entre otros)."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han seleccionado elementos del sistema."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se han elaborado esquemas de la instalación."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Configura sistemas de telefonía de voz sobre IP determinando los servicios y seleccionando equipos y elementos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han detallado las características técnicas, funcionales, y aplicaciones de la telefonía de voz sobre IP (VoIP)."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han evidenciado los servicios de los operadores de telecomunicaciones de VoIP."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han determinado los servicios de telecomunicaciones según necesidades y requerimientos."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se ha estructurado la red de usuario."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han seleccionado los equipos, software, servidor SIP y proxy, entre otros, y  elementos de la red local de usuario."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han seleccionado los equipos y elementos de la red local (ToIP) de movilidad. (Teléfonos Wifi, IP, móviles, PDA, entre otros)."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han representado los esquemas de conexión de los equipos, terminales y elementos."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se han determinado los valores y parámetros de configuración de la instalación."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Caracteriza sistemas de radiocomunicaciones para telefonía identificando su estructura y analizando el funcionamiento de los equipos que la integran.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado reglamentos y normativas."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han definido los sistemas de radiocomunicación según su ubicación (urbanas, rurales y transportables, entre otras), tecnologías y cobertura (local y metropolitana)."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se ha identificado la estructura de las redes terrestres fijas y móviles de radiocomunicaciones."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han reconocido las infraestructuras y redes de la telefonía vía satélite."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se ha reconocido características de los equipos e instalaciones asociadas (medios de transmisión, sistemas radiantes y de alimentación, entre otros)."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han identificado los interfaces de conexión entre los equipos radio con la red troncal de comunicación."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han determinado los parámetros de configuración de los equipos de radiocomunicaciones."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se han identificado los sistemas y modos de acceso remoto y telecontrol a los equipos."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Instala estaciones base interpretando planos y esquemas y aplicando técnicas específicas  de montaje y configurando equipos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han seleccionado los medios y recursos específicos para la instalación."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se ha realizado el replanteo de la instalación."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han ubicado y fijado los equipos, elementos auxiliares y de canalización."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se ha tendido el cableado de la instalación."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han conexionado los equipos de telefonía, de la red troncal y de las instalaciones asociadas."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han configurado los equipos celulares de telefonía, GSM, TETRA, entre otros."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han aplicado los criterios de calidad y seguridad en las operaciones de montaje."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha elaborado la documentación técnica del montaje."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Instala sistemas de telefonía integrando tecnologías y servicios, y configurando sus equipos  y elementos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han seleccionado los medios y recursos específicos para la instalación."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se ha realizado el replanteo de la instalación."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han conectado los equipos de telefonía, a la red del proveedor.csv: BOA20130625009Se han reconocido las posibilidades que ofrece la integración de servicios de telefonía."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se ha establecido conexión entre las centralitas, unidades DECT, enlaces GSM y terminales fijos y móviles entre otros."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se han configurado los equipos, terminales fijos y el software de VoIP."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se ha configurado la red de movilidad (ToIP) y los terminales IP específicos, móviles GSM, PDA´s, entre otros."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha establecido comunicación vía satélite con modem DSL o terminales telefónicos específicos."
+          },
+          {
+            "id": "CE5.8",
+            "descripcion": "Se ha implementado el sistema de movilidad vía satélite con la telefonía ToIP y GSM."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Verifica la puesta en servicio de instalaciones de telefonía, efectuando medidas y configurando los equipos de comunicaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han seleccionado las herramientas e instrumental de medida."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se ha realizado la configuración básica de las centralitas y equipos, en local y de forma remota."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se han efectuado medidas, ajustes y ensayos de funcionamiento."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se han interpretado los resultados obtenidos en las medidas."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se ha verificado la comunicación entre los equipos fijos y el proveedor de servicio."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han verificado las condiciones de radiación y cobertura."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se ha establecido comunicación entre equipos radio celulares, con la red troncal y entre estaciones base."
+          },
+          {
+            "id": "CE6.8",
+            "descripcion": "Se ha elaborado el informe de puesta en servicio."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Mantiene sistemas de telefonía efectuando mediciones y corrigiendo averías o disfunciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se ha realizado el plan de intervención en el sistema para la detección de fallos, averías."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se han realizado pruebas y medidas según la tipología del sistema."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han propuesto hipótesis de las causas y repercusión de averías."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se han aplicado técnicas de diagnóstico y localización de averías según tipología y características."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se han interpretado las medidas realizadas, señalando las diferencias obtenidas y justificando resultados."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se han realizado las operaciones de mantenimiento de acuerdo con los procedimientos establecidos."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se han utilizado las herramientas adecuadas para detectar y corregir problemas en el sistema de telefonía."
+          },
+          {
+            "id": "CE7.8",
+            "descripcion": "Se han documentado las intervenciones."
+          }
+        ]
+      },
+      {
+        "id": "RA8",
+        "descripcion": "Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE8.1",
+            "descripcion": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación  de los materiales, herramientas, útiles y máquinas."
+          },
+          {
+            "id": "CE8.2",
+            "descripcion": "Se han operado las máquinas respetando las normas de seguridad."
+          },
+          {
+            "id": "CE8.3",
+            "descripcion": "Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales y herramientas, entre otros. Se han descrito los elementos de seguridad (protecciones, alarmas y paros de emergencia, entre otros) de las máquinas y los equipos de protección individual (calzado, protección ocular e indumentaria, entre otros) que se deben emplear en las distintas operaciones de montaje y mantenimiento."
+          },
+          {
+            "id": "CE8.4",
+            "descripcion": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridas."
+          },
+          {
+            "id": "CE8.5",
+            "descripcion": "Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento  de los sistemas de telefonía.csv: BOA20130625009Se han determinado las medidas de seguridad y de protección personal que se deben adoptar en la preparación y ejecución de las operaciones de montaje y mantenimiento  de los sistemas de telefonía."
+          },
+          {
+            "id": "CE8.6",
+            "descripcion": "Se han clasificado los residuos generados para su retirada selectiva."
+          },
+          {
+            "id": "CE8.7",
+            "descripcion": "Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0558",
+    "nombre": "Proyecto de sistemas electrotécnicos y automatizados.Equivalencia en créditos ECTS: 5",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": ".Identifica necesidades del sector productivo, relacionándolas con proyectos tipo que las puedan satisfacer.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han clasificado las empresas del sector por sus características organizativas y  el tipo de producto o servicio que ofrecen."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han identificado las necesidades más demandadas a las empresas."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han valorado las oportunidades de negocio previsibles en el sector."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se ha identificado el tipo de proyecto requerido para dar respuesta a las demandas previstas."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han determinado las características específicas requeridas al proyecto."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se han determinado las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación."
+          },
+          {
+            "id": "CE1.8",
+            "descripcion": "Se han identificado posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio que se proponen."
+          },
+          {
+            "id": "CE1.9",
+            "descripcion": "Se ha elaborado el guión de trabajo que se va a seguir para la elaboración del proyecto."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo  y desarrollando las fases que lo componen.csv: BOA20130625009",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se ha realizado el estudio de viabilidad técnica del mismo."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han identificado las fases o partes que componen el proyecto y su contenido."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han establecido los objetivos que se pretenden conseguir identificando su alcance."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han previsto los recursos materiales y personales necesarios para realizarlo."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se ha realizado el presupuesto económico correspondiente."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han identificado las necesidades de financiación para la puesta en marcha del mismo."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se ha definido y elaborado la documentación necesaria para su diseño."
+          },
+          {
+            "id": "CE2.9",
+            "descripcion": "Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Planifica la implementación o ejecución del proyecto, determinando el plan de intervención y la documentación asociada.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han determinado los recursos y la logística necesaria para cada actividad."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo  las actividades."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han determinado los procedimientos de actuación o ejecución de las actividades."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han identificado los riesgos inherentes a la implementación definiendo el plan de prevención de riesgos y los medios y equipos necesarios."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han planificado la asignación de recursos materiales y humanos y los tiempos de ejecución."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se ha hecho la valoración económica que da respuesta a las condiciones de la implementación."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se ha definido y elaborado la documentación necesaria para la implementación o ejecución."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha definido el procedimiento de evaluación de las actividades o intervenciones."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han definido los indicadores de calidad para realizar la evaluación."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se ha definido el procedimiento para gestionar los posibles cambios en los recursos y  en las actividades, incluyendo el sistema de registro de los mismos."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se ha establecido el procedimiento para la participación en la evaluación de los  usuarios o clientes y se han elaborado los documentos específicos."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0559",
+    "nombre": "Formación y orientación laboral.Equivalencia en créditos ECTS: 5",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": ".Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y  las alternativas de aprendizaje a lo largo de la vida.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se han identificado los itinerarios formativos-profesionales relacionados con el perfil profesional del técnico superior en sistemas de telecomunicaciones e informáticos."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han identificado los principales yacimientos de empleo y de inserción laboral para el técnico superior en sistemas de telecomunicaciones e informáticos."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha realizado la valoración de la personalidad, aspiraciones, actitudes, y formación propia para la toma de decisiones."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "csv: BOA20130625009Se han valorado las ventajas de trabajo en equipo en situaciones de trabajo relacionadas con el perfil del técnico superior en sistemas de telecomunicaciones e informáticos."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han identificado los equipos de trabajo que pueden constituirse en una situación  real de trabajo."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se ha valorado positivamente la necesaria existencia de diversidad de roles y  opiniones asumidos por los miembros de un equipo."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se han identificado los tipos de conflictos y sus fuentes."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se han determinado procedimientos para la resolución del conflicto."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han identificado los conceptos básicos del derecho del trabajo."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han determinado los derechos y obligaciones derivados de la relación laboral."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han identificado las causas y efectos de la modificación, suspensión y extinción de  la relación laboral."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se ha analizado el recibo de salarios, identificando los principales elementos que lo integran."
+          },
+          {
+            "id": "CE3.8",
+            "descripcion": "Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos."
+          },
+          {
+            "id": "CE3.9",
+            "descripcion": "Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable a un sector profesional relacionado con el título de técnico superior en sistemas de telecomunicaciones e informáticos."
+          },
+          {
+            "id": "CE3.10",
+            "descripcion": "Se han identificado las características definitorias de los nuevos entornos de organización del trabajo."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se han identificado los regímenes existentes en el sistema de la Seguridad Social."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se han identificado, en un supuesto sencillo, las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han determinado las posibles situaciones legales de desempleo en supuestos prácticos sencillos."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.csv: BOA20130625009Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Participa en la elaboración de un plan de prevención de riesgos en una pequeña empresa, identificando las responsabilidades de todos los agentes implicados.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los diferentes criterios establecidos en la normativa sobre prevención de riesgos laborales."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se han determinado las formas de representación de los trabajadores en la empresa  en materia de prevención de riesgos."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del técnico superior en sistemas de telecomunicaciones e informáticos."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha proyectado un plan de emergencia y evacuación en una pequeña y mediana empresa."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del técnico superior en sistemas de telecomunicaciones e informáticos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se han analizado los protocolos de actuación en caso de emergencia."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.csv: BOA20130625009Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0560",
+    "nombre": "Empresa e iniciativa emprendedora.Equivalencia en créditos ECTS: 4",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": ".Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha analizado el concepto de cultura emprendedora y su importancia  como fuente de creación de empleo y bienestar social."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se ha valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pyme dedicada al desarrollo de sistemas electrotécnicos y automatizados."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector de sistemas electrotécnicos y automatizados."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora."
+          },
+          {
+            "id": "CE1.7",
+            "descripcion": "Se ha analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial."
+          },
+          {
+            "id": "CE1.8",
+            "descripcion": "Se ha descrito la estrategia empresarial relacionándola con los objetivos de la empresa."
+          },
+          {
+            "id": "CE1.9",
+            "descripcion": "Se ha definido una determinada idea de negocio del ámbito de sistemas electrotécnicos y automatizados que servirá de punto de partida para la elaboración de un plan de empresa."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre  el entorno de actuación e incorporando valores éticos.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia como principales integrantes  del entorno específico."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Se han identificado los elementos del entorno de una pyme de sistemas electrotécnicos y automatizados."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Se han analizado los conceptos de cultura empresarial e imagen corporativa y su relación con los objetivos empresariales."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Se ha elaborado el balance social de una empresa de sistemas electrotécnicos y automatizados, y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se han identificado, en empresas de sistemas electrotécnicos y automatizados, prácticas que incorporan valores éticos y sociales."
+          },
+          {
+            "id": "CE2.9",
+            "descripcion": "Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pyme de sistemas electrotécnicos y automatizados."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.csv: BOA20130625009",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se han analizado las diferentes formas jurídicas de la empresa."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa en función de la forma jurídica elegida."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han analizado los trámites exigidos por la legislación vigente para la  constitución de una pyme."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de empresas de sistemas electrotécnicos y automatizados en la localidad de referencia."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico-financiera, trámites administrativos, ayudas y subvenciones."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han identificado las vías de asesoramiento y gestión administrativa externas existentes a la hora de poner en marcha una pyme.4. Realiza actividades de gestión administrativa y financiera de una pyme, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "0561",
+    "nombre": "Formación en centros de trabajo Equivalencia en créditos ECTS: 22csv: BOA20130625009",
+    "horas": 0,
+    "curso": "1º",
+    "resultados_aprendizaje": [
+      {
+        "id": "RA1",
+        "descripcion": ".Identifica la estructura y organización de la empresa relacionándolas con la producción y comercialización de los productos que obtiene.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE1.1",
+            "descripcion": "Se han identificado la estructura organizativa de la empresa y las funciones de cada área de la misma."
+          },
+          {
+            "id": "CE1.2",
+            "descripcion": "Se ha comparado la estructura de la empresa con las organizaciones empresariales tipo existentes en el sector."
+          },
+          {
+            "id": "CE1.3",
+            "descripcion": "Se han identificado los elementos que constituyen la red logística de la empresa: proveedores, clientes, sistemas de producción, almacenaje, entre otros."
+          },
+          {
+            "id": "CE1.4",
+            "descripcion": "Se han identificado los procedimientos de trabajo en el desarrollo de la prestación de servicio."
+          },
+          {
+            "id": "CE1.5",
+            "descripcion": "Se han valorado las competencias necesarias de los recursos humanos para el desarrollo óptimo de la actividad."
+          },
+          {
+            "id": "CE1.6",
+            "descripcion": "Se ha valorado la idoneidad de los canales de difusión más frecuentes en esta  actividad."
+          }
+        ]
+      },
+      {
+        "id": "RA2",
+        "descripcion": "Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional de acuerdo con las características del puesto de trabajo y con los procedimientos establecidos en la empresa.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE2.1",
+            "descripcion": "Se han reconocido y justificado:La disponibilidad personal y temporal necesarias en el puesto de trabajo."
+          },
+          {
+            "id": "CE2.2",
+            "descripcion": "Las actitudes personales (puntualidad, empatía, entre otras) y profesionales (orden, limpieza, responsabilidad, entre otras) necesarias para el puesto de trabajo."
+          },
+          {
+            "id": "CE2.3",
+            "descripcion": "Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional."
+          },
+          {
+            "id": "CE2.4",
+            "descripcion": "Los requerimientos actitudinales referidos a la calidad en la actividad profesional."
+          },
+          {
+            "id": "CE2.5",
+            "descripcion": "Las actitudes relacionales con el propio equipo de trabajo y con las jerarquías establecidas en la empresa."
+          },
+          {
+            "id": "CE2.6",
+            "descripcion": "Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral."
+          },
+          {
+            "id": "CE2.7",
+            "descripcion": "Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional."
+          },
+          {
+            "id": "CE2.8",
+            "descripcion": "Se han identificado las normas de prevención de riesgos laborales y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales de aplicación en la actividad profesional."
+          },
+          {
+            "id": "CE2.9",
+            "descripcion": "Se han aplicado los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa."
+          },
+          {
+            "id": "CE2.10",
+            "descripcion": "Se ha mantenido una actitud de respeto al medio ambiente en las actividades desarrolladas."
+          },
+          {
+            "id": "CE2.11",
+            "descripcion": "Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad."
+          },
+          {
+            "id": "CE2.12",
+            "descripcion": "Se ha responsabilizado del trabajo asignado interpretando y cumpliendo las instrucciones recibidas."
+          },
+          {
+            "id": "CE2.13",
+            "descripcion": "Se ha establecido una comunicación eficaz con la persona responsable en cada situación y con los miembros del equipo.csv: BOA20130625009Se ha coordinado con el resto del equipo comunicando las incidencias relevantes que se presenten."
+          },
+          {
+            "id": "CE2.14",
+            "descripcion": "Se ha valorado la importancia de su actividad y la necesidad de adaptación a los cambios de tareas."
+          },
+          {
+            "id": "CE2.15",
+            "descripcion": "Se ha responsabilizado de la aplicación de las normas y procedimientos en el desarrollo de su trabajo."
+          }
+        ]
+      },
+      {
+        "id": "RA3",
+        "descripcion": "Determina las características de las instalaciones a partir de un anteproyecto o condiciones dadas, aplicando la reglamentación y normativa correspondiente.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE3.1",
+            "descripcion": "Se ha identificado la normativa de aplicación."
+          },
+          {
+            "id": "CE3.2",
+            "descripcion": "Se han elaborado los esquemas y croquis de las instalaciones."
+          },
+          {
+            "id": "CE3.3",
+            "descripcion": "Se han dimensionado los equipos y elementos que configuran las instalaciones."
+          },
+          {
+            "id": "CE3.4",
+            "descripcion": "Se han seleccionado equipos y accesorios homologados."
+          },
+          {
+            "id": "CE3.5",
+            "descripcion": "Se ha definido el proceso tecnológico para el montaje."
+          },
+          {
+            "id": "CE3.6",
+            "descripcion": "Se han dibujado los planos y esquemas de las instalaciones."
+          },
+          {
+            "id": "CE3.7",
+            "descripcion": "Se han dibujado los planos de montaje de las instalaciones utilizando la simbología y escalas normalizadas."
+          }
+        ]
+      },
+      {
+        "id": "RA4",
+        "descripcion": "Planifica el montaje de las instalaciones estableciendo etapas y distribuyendo los recursos, a partir de la documentación técnica del proyecto.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE4.1",
+            "descripcion": "Se han identificado las etapas del proceso de montaje en las instalaciones."
+          },
+          {
+            "id": "CE4.2",
+            "descripcion": "Se han establecido las unidades de obra y los recursos humanos y materiales."
+          },
+          {
+            "id": "CE4.3",
+            "descripcion": "Se ha especificado los medios de trabajo, equipos, herramientas y útiles de medida y comprobación."
+          },
+          {
+            "id": "CE4.4",
+            "descripcion": "Se han desarrollado planes de aprovisionamiento y condiciones de almacenamiento de los equipos y materiales."
+          },
+          {
+            "id": "CE4.5",
+            "descripcion": "Se ha valorado los costes de montaje a partir de unidades de obra."
+          },
+          {
+            "id": "CE4.6",
+            "descripcion": "Se han definido las especificaciones técnicas de montaje y protocolos de pruebas."
+          },
+          {
+            "id": "CE4.7",
+            "descripcion": "Se han elaborado manuales de instrucciones de servicio y de mantenimiento de las instalaciones."
+          },
+          {
+            "id": "CE4.8",
+            "descripcion": "Se ha identificado la normativa de prevención de riesgos."
+          }
+        ]
+      },
+      {
+        "id": "RA5",
+        "descripcion": "Supervisa el montaje de las instalaciones, colaborando en su ejecución y respetando los protocolos de seguridad y calidad establecidos en la empresa.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE5.1",
+            "descripcion": "Se ha interpretado la documentación técnica, reconociendo los elementos, su función y su disposición en el montaje de las instalaciones."
+          },
+          {
+            "id": "CE5.2",
+            "descripcion": "Se han seleccionado las herramientas y material necesario interpretado el plan de montaje de la instalación."
+          },
+          {
+            "id": "CE5.3",
+            "descripcion": "Se ha comprobado que los equipos y accesorios instalados son los prescritos  en el plan de montaje."
+          },
+          {
+            "id": "CE5.4",
+            "descripcion": "Se han supervisado técnicas y acabados de montaje relativos a anclajes, conexiones y mecanizado, entre otros."
+          },
+          {
+            "id": "CE5.5",
+            "descripcion": "Se ha comprobado el empleo de los elementos de protección individual definidos en el plan de seguridad."
+          },
+          {
+            "id": "CE5.6",
+            "descripcion": "Se han ejecutado las operaciones según los procedimientos del sistema de calidad."
+          },
+          {
+            "id": "CE5.7",
+            "descripcion": "Se ha actuado con criterios de respeto al medio ambiente."
+          }
+        ]
+      },
+      {
+        "id": "RA6",
+        "descripcion": "Realiza la puesta en marcha o servicio de las instalaciones y equipos, supervisandola y colaborando en su ejecución, y siguiendo los procedimientos establecidos.csv: BOA20130625009",
+        "criterios_evaluacion": [
+          {
+            "id": "CE6.1",
+            "descripcion": "Se ha interpretado el plan de puesta en marcha de las instalaciones y equipos."
+          },
+          {
+            "id": "CE6.2",
+            "descripcion": "Se han seleccionado las herramientas e instrumentos adecuados."
+          },
+          {
+            "id": "CE6.3",
+            "descripcion": "Se ha comprobado la secuencia de funcionamiento de los elementos de control, seguridad y receptores eléctricos de la instalación."
+          },
+          {
+            "id": "CE6.4",
+            "descripcion": "Se han programado, regulado y calibrado los elementos y equipos según sus características de funcionalidad."
+          },
+          {
+            "id": "CE6.5",
+            "descripcion": "Se han verificado los parámetros de funcionamiento de la instalación."
+          },
+          {
+            "id": "CE6.6",
+            "descripcion": "Se han utilizado las herramientas de mano, informáticas e instrumentos para la puesta en marcha de manera adecuada."
+          },
+          {
+            "id": "CE6.7",
+            "descripcion": "Se han cumplido las normas de seguridad, calidad y reglamentación vigente."
+          },
+          {
+            "id": "CE6.8",
+            "descripcion": "Se ha cumplimentado la documentación técnico-administrativa requerida para la puesta en servicio."
+          }
+        ]
+      },
+      {
+        "id": "RA7",
+        "descripcion": "Controla las intervenciones de mantenimiento de las instalaciones, colaborando en su ejecución, verificando el cumplimiento de los objetivos programados y optimizando los recursos disponibles.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE7.1",
+            "descripcion": "Se ha identificado el tipo de mantenimientoSe han elaborado los procesos de intervención interpretado los programas de mantenimiento."
+          },
+          {
+            "id": "CE7.2",
+            "descripcion": "Se han comprobado las existencias en el almacén."
+          },
+          {
+            "id": "CE7.3",
+            "descripcion": "Se han definido las tareas, tiempos, y recursos necesarios."
+          },
+          {
+            "id": "CE7.4",
+            "descripcion": "Se han seleccionado las herramientas e instrumentos adecuados."
+          },
+          {
+            "id": "CE7.5",
+            "descripcion": "Se han comprobado la funcionalidad, los consumos eléctricos y parámetros de funcionamiento, entre otros."
+          },
+          {
+            "id": "CE7.6",
+            "descripcion": "Se han ajustado y reprogramado elementos y equiposSe ha actualizado la documentación técnica necesaria para garantizar la trazabilidad de las actuaciones."
+          },
+          {
+            "id": "CE7.7",
+            "descripcion": "Se ha realizado las operaciones de acuerdo con la seguridad y calidad requeridas  y con criterios de respeto al medio ambiente."
+          },
+          {
+            "id": "CE7.8",
+            "descripcion": "Se han utilizado aplicaciones informáticos para la planificación del mantenimiento."
+          }
+        ]
+      },
+      {
+        "id": "RA8",
+        "descripcion": "Supervisa la reparación de averías y disfunciones en equipos  e instalaciones, colaborando en su ejecución y verificando la aplicación de técnicas y procedimientos de mantenimiento correctivo.",
+        "criterios_evaluacion": [
+          {
+            "id": "CE8.1",
+            "descripcion": "Se han organizado las intervenciones a partir del plan de mantenimiento."
+          },
+          {
+            "id": "CE8.2",
+            "descripcion": "Se han identificado los síntomas de averías o disfunciones a través de las medidas realizadas y la observación de la funcionalidad de la instalación o equipo."
+          },
+          {
+            "id": "CE8.3",
+            "descripcion": "Se han propuesto hipótesis de las posibles causas de la avería y su repercusión en la instalación."
+          },
+          {
+            "id": "CE8.4",
+            "descripcion": "Se ha localizado la avería de acuerdo a los procedimientos específicos para el diagnóstico y localización."
+          },
+          {
+            "id": "CE8.5",
+            "descripcion": "Se han seleccionado las herramientas e instrumentos necesarios para realizar el proceso de reparación."
+          },
+          {
+            "id": "CE8.6",
+            "descripcion": "Se ha realizado el desmontaje siguiendo las pautas establecidas, con seguridad, calidad y respeto al medio ambiente."
+          },
+          {
+            "id": "CE8.7",
+            "descripcion": "Se han sustituido o reparado los elementos averiados."
+          },
+          {
+            "id": "CE8.8",
+            "descripcion": "Se han restablecido las condiciones iniciales de funcionalidad de la instalación."
+          },
+          {
+            "id": "CE8.9",
+            "descripcion": "Se ha intervenido con orden y limpieza, respetando los tiempos estipulados en los trabajos realizados.csv: BOA20130625009Se ha cumplimentado la documentación establecida en los programas de mantenimiento."
+          }
+        ]
+      }
+    ]
+  }
+]
