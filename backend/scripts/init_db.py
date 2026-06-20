@@ -59,7 +59,7 @@ def check_and_seed_db():
 
             # Seeds rápidos de profesores ficticios
             try:
-                from seed_fictitious import seed_fake_teachers
+                from scripts.db_seeds.seed_fictitious import seed_fake_teachers
                 seed_fake_teachers()
                 logger.info("seed_fictitious completado")
             except Exception as e:
@@ -70,7 +70,7 @@ def check_and_seed_db():
 
     # Módulo Demo SIEMPRE: tiene su propia validación interna de duplicados.
     try:
-        from seed_fictitious_full import generate_demo_module
+        from scripts.db_seeds.seed_fictitious_full import generate_demo_module
         generate_demo_module(db)
         logger.info("seed_fictitious_full completado. Módulo Demo creado con éxito.")
     except Exception as e:
