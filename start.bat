@@ -1,4 +1,5 @@
 @echo off
+set "PATH=%~dp0node-v22.11.0-win-x64;%PATH%"
 echo ====================================================
 echo   Iniciando Entorno de Desarrollo - Cuaderno FP (PM2)
 echo ====================================================

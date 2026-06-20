@@ -6,6 +6,7 @@ BOE - BOA/
 Currículos/
 MejoraDocente/
 PD FPGB 3013 IED/
+memoria_proyecto.md
 
 # Python
 __pycache__/
@@ -46,3 +47,7 @@ node_modules/
 .env
 .env.local
 .env.production
+
+# Node.js portable
+node-v*-win-x64/
+

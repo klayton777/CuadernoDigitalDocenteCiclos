@@ -32,7 +32,7 @@ logger = logging.getLogger("cdd-pro")
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Inicializacin automtica de BD si est vaca
-    from init_db import check_and_seed_db
+    from scripts.init_db import check_and_seed_db
     try:
         check_and_seed_db()
     except Exception as e:

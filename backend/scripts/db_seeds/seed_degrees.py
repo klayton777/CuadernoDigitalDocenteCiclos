@@ -11,7 +11,7 @@ def seed_degrees():
     Base.metadata.create_all(bind=engine)
     db = SessionLocal()
 
-    json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'ciclos_superiores_todofp.json')
+    json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), 'data', 'ciclos_superiores_todofp.json')
     
     with open(json_path, 'r', encoding='utf-8') as f:
         ciclos = json.load(f)
